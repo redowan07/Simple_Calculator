@@ -11,7 +11,7 @@ body{
     font-family: arial,sans-serif;
     background-color: rgb(135, 135, 135);
     border-radius: 15px;
-    max-width: 450px;
+    max-width: 450px; 
     overflow: hidden;
 }
 
